@@ -1,5 +1,5 @@
 const net = require("net");;
-const name = "TLK"
+const name = "SHG"
 const connect = function () {
   const conn = net.createConnection({
     host: '165.227.47.243',
